@@ -1,0 +1,13 @@
+geex\common\redis\PersonTest.class
+geex\common\redis\service\PersonService.class
+geex\boot\redis\test\Application.class
+geex\common\redis\service\LockWorker.class
+geex\common\redis\service\PersonLockService.class
+geex\boot\redis\test\job\Crontab.class
+geex\boot\redis\test\config\ApolloAppConfig.class
+geex\common\redis\TestBase.class
+geex\boot\redis\test\config\ApolloAppConfig$1.class
+geex\common\redis\LockTest.class
+geex\boot\redis\test\config\CustomizeConfig.class
+geex\common\redis\domain\Person.class
+geex\common\redis\Main.class
